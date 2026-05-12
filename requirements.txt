@@ -4,3 +4,5 @@ pandas
 gunicorn
 plotly
 Pillow
+statsmodels
+openpyxl
